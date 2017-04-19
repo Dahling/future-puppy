@@ -1,0 +1,28 @@
+.fun{
+  text-align: center;
+  color: pink;
+  font-size: 50px;
+  font-weight: bold;
+}
+.happy{
+  font-size: 20px;
+  color: green;
+  text-align: center;
+}
+.cool{
+  border: 2px pink;
+  border-style: groove;
+  font-size: 25px;
+
+}
+.awesome{
+  border: 1px pink;
+  border-style: dotted;
+  font-size: 20px;
+  display:block;
+  margin: auto;
+}
+.groovy{
+  border: 2px solid pink;
+  font-size: 25px;
+}
